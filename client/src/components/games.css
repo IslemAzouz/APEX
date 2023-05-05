@@ -1,0 +1,53 @@
+.card {
+    transition: transform 0.2s ease-in-out;
+    width: 16rem;
+    margin: 0 auto;
+  }
+  
+  .card:hover {
+    transform: translateY(-10px);
+  }
+
+  .card-img-top {
+    height: 10rem;
+    object-fit: cover;
+  }
+
+  .games-container {
+    margin-top: 80px;
+  }
+  
+  .game-card {
+    width: 18rem;
+    margin: 0 auto;
+  }
+
+  .form-container {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  .form-control {
+    font-size: 0.9rem;
+  }
+  
+  .btn-primary {
+    font-size: 0.9rem;
+  }
+
+  button.btn-primary {
+    display: block;
+    margin: auto;
+    background-color: green;
+  }
+
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  
+  
+  
+  
